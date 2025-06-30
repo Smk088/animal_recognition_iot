@@ -132,11 +132,3 @@ The system uses the **Brazilian Road’s Animals Dataset (BRA-Dataset)**, consis
 Developed as part of the final year B.E. Computer Science & Engineering project at **M.P. Nachimuthu M. Jaganathan Engineering College**, affiliated with **Anna University**, Chennai.
 
 ---
-
-## 📄 License
-
-This project is for academic and research purposes. For deployment or commercial use, please contact the authors.
-
----
-
-Would you like this in `.md` or `.txt` format for upload to GitHub?
